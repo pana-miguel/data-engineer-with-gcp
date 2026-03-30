@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gcp-test-miguel",
+  "private_key_id": "36d4879945743fbbff8e8b875567011b260073e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3lOQTM78v42UJ\nJAqDAbT/0S3kjyLVPn529rGKEuPTY0fhiDGqa5ibu/rmIV/bKubEuknLID+riggL\nWYVRz6CIUbuyF13+XHE1/EJn5ktlmIFZnBS/CwmrgK/37dp1APXen6PQpfF2rMsC\n7awpJlplJN4WL5snkrPVuuQMdX2C+Mw4bCtnSwHEnpJcUxMwPPFe1tw2J4Eme7YB\nnuW4szxmsmqgOu2fdARGSp+8HALnbrElHOIVupZJp0uTJ5VUxe28LG4cGnGJDZfc\notJFRONYaYeQSRs+fpznTqbmbUI6qjEqxdYdG2QjhDwQMybYxzB2ICAL/EotSqJ7\ntHuGRbBzAgMBAAECggEAJ1Jbded4FJRS4F3ZaI01jTPrbhDgp6depDGb/pSkOvOB\ngoPPC49HXVgq2h8c7o9mZY33X2xVZvNGXNP8c/USkBBdsTxDFEgNscAKI0IXNTgw\nwJZndTIyjIsgZe0LBVPC1kAAcSESMta5FzP8U8YUx6RZc4wX4iaQoX+J+Ec0Lpip\nqESgGIZ5UXKhpTE/xoPloxMd3vgqoWyVYCCht1ubM9o2Awr0eTfcQFwErevi19TU\n3M6z0gB7ilZV/eYRpXiDGZzAtHL/v1yMCQ6FxjLn06IaTiT2BjQJLbniI1yu51kQ\n04d62eZCKO48kHv+lyeIkUsjLVhW7fE/XUee6ijDwQKBgQDvJXcICi8M3ImoOiLP\n7fRaWo5Z4/5klaIUugTx/vjXzNaNPIJsYLmNTdILQvXE2l/dqWExnrpwAv7DTB8U\nv3PuFicKo1PrcIHfSnC48/ADbCGQkCcERibh03yTu13EPb+WTJ3N2BPKxgv/C0U6\nidcbhU4dnHgZjUyfIxo80bt9QQKBgQDEhPXOZ47CtgW9ZIJBmomoAUBUsNPVjMCF\ngEgLRPzwLXg4lmR4FkOIl67cfeFytxFihYsc88WNvwPImo6UMkE4K+HgJ07EkZ1u\nTK9Q+PrSEkUQ+XQgDI6ij/LeAyuudgKATdesegF6wpz8WOi5Zb2ic+vjXpLymvlP\nvWXfzfocswKBgBdG80YSD7BVywRX3EmW5MDirZZsTbempOcVkCOp6LjAlGWc7Sj1\nZToux/IWq2tkwg4GTZKR253JfNivkRro47TZ7STo7uMsyUddrIkkHUmH/eBfV5zf\n4yr59dc/VooiZIKRpI6DqLGFA2foxe1Du29PU2Iod7ws97dJqGUhGPnBAoGAQZjw\nQ/mlWbFQsSt/n05qbL4eLybnTv0wtl9frQNWOwWyf5ET8FHeMRYQtGEAhD4/e1eA\nXCWy5+G+7ZNJzIYJ5yoet6fnTw4cMtk+HBVABCc9DrF15czLP9A1DY6ZYh7aLuHN\nADGplMSpikJTTK99YWC4eKj0/C5m0gsymkYzGqkCgYA/+ZlKw0+UtEb6nzi+zPqh\n8nvUphck8g0fb/fWKqgtCEe2meYIQz5wWIaK0oyliBMW2DIS5JLZbWgQEWXGXaf0\nOofpXBkrldmGfvHGewAhotaXjkTlsVj92AxugMys71pgmFQ5kfG/uXn3RJUvFt0D\nSElUU+7vH16J5ubGEPxMSw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-google-cloud-storage@gcp-test-miguel.iam.gserviceaccount.com",
+  "client_id": "100529336895882126106",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-google-cloud-storage%40gcp-test-miguel.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

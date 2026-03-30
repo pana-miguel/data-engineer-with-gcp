@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "quick-magpie-483522-r1",
+  "private_key_id": "1bc4fe6911c31b52d5a54269244c6677b2337373",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3Zq9YE7xHP70G\nBKpZwPwtKPXreadZ6KE6MA7S7u3gvHwI6l+A3q7g2m+Qr7x9TDeZkR6WjdB4Wtml\nTg9sej3nPq1AAI116pGxXbEOgNBoNU+9kttNBh2h0MdLoH3TRVeLUtoWpR+yyYdH\nWoiBRORQiXnMWrz2/6XjS5Y7LX10ep/mFWUVrqXC9wjfe8kXdOjmG4StBkkrvAYK\nxeH8C+uIxWywov/0+Gnj9YplwQj1RJ7bSIezF6szOb6S7GI/BpHZnXD5HJWJbqTZ\nuUvY48n3km0ADkv3Y3gUCialHp7RQCl4pSD0u3dWRleueA4fwG6Y5Byfc6akiK9O\n1vow4tU9AgMBAAECggEACKJFpm6VakBCqI4fK+cFKCYZv6pkObwVHP1msUDsw2v0\nJeJMuS8iifTWlDfltntYUbsudrV55zSVsu3EFZ4CnIiLlOwBvNecYL5xp6ZiSUmb\nNag8eTmMuxGuVC3bxo6o4qb1m+PNpHfOzcniC73fxrfWG0v5QeKCn3rvOV14nrtT\ntM6xicdj9OA+FhyyjIJagm7Z4Sd2QRmpjra3E02tHwCa2s09vIwNxmO9WDa0KO7E\nNQ1xTxQsKuXrVIj1xOTVHx19+FM8dpZQA9QEnEc3QYy5WtCM5DbXP6UEroRVedUn\ndcYth5mn0rMo2TvPttE+zJ4VsRvMBTfODHt54RrkMQKBgQDcIVRV0MZqGPwqJ+Kg\n9u1Q09T3W3QkONa/Cr4CDPFkes+G37WH7xlfa6uebcYFxTOPma/F73HtmHFkijV0\n7D99ugCUjjrFs/XYGE7gxxLQ8AvQbze1w8IP6eZJgtbZsrO8Iu1WwkcqAEkZhg8i\nvNt1FSX5SJ5xXY5EOKNXhv7GUQKBgQDVSTZGeItnzjlFSXIP3D+8WXBIkrLyrmgD\nSB0iSsVGy8TUYNcvz3TuGNME7Wr6Qa8trofx81GAB+37nJ1tqDFD4VSKc/NmQyR9\nASNa2BRt0Ois/eA3LD9FUO4Bo+L/NYWem4Jz8RiEUbJae2nbdw+SqD2lSI/fFdRq\nBpRa0icpLQKBgHdIlEOgSzRI77QEQvlIdRacg0W6x/es2SlSr926l8AEEJqcdOkB\nNnWPicLi5zBPSP5ioG4Yr1q5hZCemBMQxeLiPNhDLjPdrbV4jp2dImQX/77l1YFo\nX6tx6rkg7j2vaVfkcUnXIurulq3/CAqh3iXW3On1YO47bREow9J1M2/RAoGAPmuK\nwt0Mj3i/MhPomdOvo4PZZKPqUzPPpQY54ItZaPrBxBYDZC6m3ffN6idBo7QNfKUT\njC/Vrk6jy3tuZ2VN5bvQbiS5GziTOTJYEoIimHEHZ3l1YTBF5BdnUHuSN3aGgICq\nkRwCPNdcBzcPJ/eUSyuJvxGZaYSOAemjCWFvrJECgYA8fTVzOnkF7rMxyiPIq04s\nvVgiM+arGjMZUBQQrQPR0Z+epWX/U8BHo6UrAAKYrkxKK2sjuVGdortAqXUP7QJ7\nsbqqf4pZQpA8AsjHyGz9P+QuMVN830G83eXaJPOOmvh719j+U4HHi56NSlyvudfu\nOK0KiBS9/UiYw0QnglM9gQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cuenta-test@quick-magpie-483522-r1.iam.gserviceaccount.com",
+  "client_id": "103873932304213995729",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cuenta-test%40quick-magpie-483522-r1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
