@@ -7,7 +7,7 @@ Este repositorio recopilara la informacion sobre el uso de los servicios de gcp 
 Este repositorio es una guía interactiva centrada en el ecosistema de **Google Cloud Platform (GCP)**. en los conocimientos para un data enginner utilizando cada uno de los servicios y explicando sus herramientas y usos en diferentes entornos.
 
 > **Créditos y Referencia:**  
-> Esta guía toma como base el curso de **Píldoras de Programación**, el cual puedes encontrar en el siguiente enlace: [Curso Píldoras de Programación](https://pildorasdeprogramacion.com/cursos/curso-python-desde-cero-2026).
+> Esta guía toma como base el curso de **Píldoras de Programación**, el cual puedes encontrar en el siguiente enlace: [Curso Píldoras de Programación](https://pildorasdeprogramacion.com/cursos/data-engineer-certification-gcp).
 
 ---
 
